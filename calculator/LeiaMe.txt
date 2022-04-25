@@ -1,0 +1,11 @@
+Nome: Alessandro Neves dos Santos RA: 2044323
+
+-> A calculadora usa a biblioteca "Conio.h", então só é compilada no windows.
+-> Se for usar o main.cpp deste projeto:
+	use "space" para usar o "receiveClear()" e desbloquear a calculadora em caso de Erro (Divisão por zero).
+-> Não precisa usar a tecla "Enter" para dar input nos digitos e operações!
+-> Para compilar no Windows: "g++ main.cpp CalculatorKeyboardAlessandro.cpp CalculatorAlessandro.cpp CpuAlessandro.cpp ScreenAlessandro.cpp -o calculadora.exe"
+-> Para executar a calculadora no Windows: "calculadora.exe"
+
+-> Teclas que podem ser usadas como input: "1; 2; 3; 4; 5; 6; 7; 8; 9; 0; +; -; *; /; =; SpaceBar;
+
